@@ -2,7 +2,7 @@
 import org.junit.Assert;
 import org.junit.Test;
 
-public class ParrotTest {
+public class polly {
     Parrot p = new Parrot();
 
     /**
